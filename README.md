@@ -97,8 +97,9 @@ Always feel free to fork and contribute any changes directly via [GitHub](https:
 ## Version
 Name |	Version
 ---|---
-Extension Version |	2.0.1
-Controller Compatibility | 3.7 or Later
-Last Update |	08/07/2019
+Extension Version |	2.2.4
+Controller Compatibility | 4.5 or Later
+Agent Compatibility | 4.5.13 or Later
+Last Update |	15/04/2021
 
 List of Changes to this extension can be found [here]

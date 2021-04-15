@@ -1,4 +1,7 @@
 # Changes
+
+## 2.2.4
+* Updated to commons 2.2.4 framework
 ## 2.0.2
 * Revamp to incorporate extension commons 2.2.1 framework
 * Changes to teamcity pipeline
